@@ -56,8 +56,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Polygonscan™ | Home Official Site",
+        "meta_descr": "PolygonScan allows you to explore and search the Polygon blockchain for transactions, addresses, tokens, prices and other activities taking place on Polygon ...",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
